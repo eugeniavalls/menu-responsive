@@ -5,4 +5,5 @@ function handleClick (){
     mainNavElement.classList.toggle ('hide');
 }
 
+
 toggleMenuElement.addEventListener('click' , handleClick);
