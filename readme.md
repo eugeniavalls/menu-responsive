@@ -4,15 +4,14 @@
 
 ## Ejemplo en vivo
 
-- [Vista en vivo](URL-de-github-pages-de-este-proyecto)
-
+- [Vista en vivo](https://eugeniavalls.github.io/practica-responsive1/)
 
 ## Descripción 📑
 
-Ejercicio par poner en práctica el responsive y el menú desplegable. 
-Uso de position, display. 
-Página responsive para ordenador y móvil. 
-En la versión móvil, menú de hamburguesa desplegable con transición. 
+Ejercicio par poner en práctica el responsive y el menú desplegable.
+Uso de position, display.
+Página responsive para ordenador y móvil.
+En la versión móvil, menú de hamburguesa desplegable con transición.
 
 ## Tecnologías 🛠
 
